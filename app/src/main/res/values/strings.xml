@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">Detects a visible coloured target and taps its centre while enabled.</string>
+</resources>
